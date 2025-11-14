@@ -1,0 +1,4 @@
+origin  https://github.com/sambabhouria/react-native-airline-booking-app.git (fetch)
+origin  https://github.com/sambabhouria/react-native-airline-booking-app.git (push)
+origin-new      https://github.com/hamzaMissewi/powered-ai-movies-react-native-app.git (fetch)
+origin-new      https://github.com/hamzaMissewi/powered-ai-movies-react-native-app.git (push)
